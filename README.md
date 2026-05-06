@@ -24,6 +24,7 @@ To perform end-to-end testing of an e-commerce platform similar to BigBasket to 
 * **`Bug_Report.md`**: Sample defect reports with reproducible steps.
 * **`RTM.md`**: Requirement Traceability Matrix ensuring coverage.
 * **`Test_Summary_Report.md`**: Final results and test execution metrics.
+* **`API_Testing.md`**: Comprehensive API test cases, endpoints, and validations.
 * **`scripts/`**: Contains sample automation scripts for Selenium, JMeter, and API collections.
 
 ## 🎯 Modules Tested
